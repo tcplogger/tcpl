@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b8ece&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Tcpl;I%27m+a+Student+focusing+on+System+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b8ece&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Tcpl;I%27m+a+WhiteHat+Hacker+Focused+On+Networking)](https://git.io/typing-svg)
 
 <h4 align="center">- Tcpl -</h4>
 
