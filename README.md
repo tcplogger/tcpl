@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b8ece&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Tcpl;I%27m+a+WhiteHat+Hacker+Focused+On+Networking)](https://git.io/typing-svg)
 
-<h4 align="center">- Tcpl -</h4>
+<h4 align="center">  T
+                     C
+                     P
+                     L -</h4>
 
 <br>
 
